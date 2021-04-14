@@ -13,6 +13,11 @@ My name is Kornel Kwak. I'm land surveyor and beginner programmer intrested in m
 ### libraries:
  
  * Leaflet JS
+
+## Technologies I learn:
+
+* React
+* Node
  
 ## Contact
 
