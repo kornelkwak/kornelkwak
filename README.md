@@ -1,6 +1,6 @@
 # Welcome on @kornelkwak GitHub profile!
 
-My name is Kornel Kwak. I'm land surveyor and beginner programmer intrested in mainly frontend technologies and GIS.
+My name is Kornel Kwak. I'm land surveyor and beginner programmer interested in mainly frontend technologies and GIS.
 
 ## Technologies  I use: 
 
