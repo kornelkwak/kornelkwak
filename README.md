@@ -8,6 +8,7 @@ My name is Kornel Kwak. I'm land surveyor and beginner programmer interested in 
 * CSS
 * SASS/SCSS
 * JavaScript
+* TypeScript
 * Python
 
 ### libraries:
