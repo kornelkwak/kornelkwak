@@ -1,28 +1,42 @@
-# Welcome on @kornelkwak GitHub profile!
+# 👋 Welcome to my GitHub profile!
 
-My name is Kornel Kwak. I'm land surveyor and beginner programmer interested in mainly frontend technologies and GIS.
+I'm **Kornel Kwak** – a web developer focused on building modern, user-centered applications using **React** on the frontend and **Node.js + Express** on the backend.  
+I’m also passionate about **GIS**, geospatial data, and interactive map integrations.
 
-## Technologies  I use: 
+As a developer, I have experience implementing **A/B tests** and working on **CRO (Conversion Rate Optimization)** projects — handling everything from test setup to frontend logic and variant rendering.
 
-* HTML
-* CSS
-* SASS/SCSS
-* JavaScript
-* TypeScript
-* Python
+---
 
-### libraries:
- 
- * Leaflet JS
+## 💻 Tech Stack
 
-## Technologies I learn:
+### Frontend  
+- HTML, CSS, SCSS  
+- JavaScript (ES6+), TypeScript  
+- **React** (main frontend framework)  
+- Basic knowledge of Angular  
 
-* React
-* Node
- 
-## Contact
+### Backend  
+- Node.js  
+- Express  
 
-You can contact me on e-mail: kornelkwak@gmail.com
+### Geospatial / Map Libraries  
+- Leaflet.js  
+- OpenLayers  
 
+### Other Tools & Skills  
+- Python (scripts, automation, data processing)  
+- A/B testing & CRO implementation  
 
+---
 
+## 🌍 Interests  
+- Frontend performance & UX  
+- GIS & geospatial data  
+- Interactive maps & spatial analysis  
+- Data-informed development  
+
+---
+
+## 📫 Contact  
+📧 Email: **kornelkwak@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/kornel-kwak-874387227](https://www.linkedin.com/in/kornel-kwak-874387227/)
